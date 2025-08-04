@@ -143,11 +143,11 @@ This dashboard supports key stakeholder questions such as:
 ## Screenshots
 
 ### 1st
-![1st](https://github.com/Debjit1729/Hospital-Emergency-Room-Dashboard/blob/main/Screenshot%202025-07-05%20010104.png)
+![1st](https://github.com/saikrishna-nayandi/Hospital-Emergency-Room-Dashboard/blob/main/Monthly_View.png)
 
 ### 2nd
-![1st](https://github.com/Debjit1729/Hospital-Emergency-Room-Dashboard/blob/main/Screenshot%202025-07-05%20010127.png)
+![1st](https://github.com/saikrishna-nayandi/Hospital-Emergency-Room-Dashboard/blob/main/Consolidated_view.png)
 
 ### 3rd
-![1st](https://github.com/Debjit1729/Hospital-Emergency-Room-Dashboard/blob/main/Screenshot%202025-07-05%20010155.png)
+![1st](https://github.com/saikrishna-nayandi/Hospital-Emergency-Room-Dashboard/blob/main/Patient_details.png)
 
